@@ -1,0 +1,186 @@
+[
+    {
+        "input": "smartphones",
+        "output": {
+            "Apple": 724.0,
+            "Samsung": 1249.0,
+            "OPPO": 280.0,
+            "Huawei": 499.0
+        }
+    },
+    {
+        "input": "laptops",
+        "output": {
+            "Apple": 1749.0,
+            "Samsung": 1499.0,
+            "Microsoft Surface": 1499.0,
+            "Infinix": 1099.0,
+            "HP Pavilion": 1099.0
+        }
+    },
+    {
+        "input": "fragrances",
+        "output": {
+            "Impression of Acqua Di Gio": 13.0,
+            "Royal_Mirage": 40.0,
+            "Fog Scent Xpressio": 13.0,
+            "Al Munakh": 120.0,
+            "Lord - Al-Rehab": 30.0
+        }
+    },
+    {
+        "input": "skincare",
+        "output": {
+            "L'Oreal Paris": 19.0,
+            "Hemani Tea": 12.0,
+            "Dermive": 40.0,
+            "ROREC White Rice": 46.0,
+            "Fair & Clear": 70.0
+        }
+    },
+    {
+        "input": "groceries",
+        "output": {
+            "Saaf & Khaas": 20.0,
+            "Bake Parlor Big": 14.0,
+            "Baking Food Items": 14.0,
+            "fauji": 46.0,
+            "Dry Rose": 70.0
+        }
+    },
+    {
+        "input": "home-decoration",
+        "output": {
+            "Boho Decor": 41.0,
+            "Flying Wooden": 51.0,
+            "LED Lights": 20.0,
+            "luxury palace": 60.0,
+            "Golden": 30.0
+        }
+    },
+    {
+        "input": "furniture",
+        "output": {
+            "Furniture Bed Set": 40.0,
+            "Ratttan Outdoor": 50.0,
+            "Kitchen Shelf": 700.0,
+            "Multi Purpose": 50.0,
+            "AmnaMart": 41.0
+        }
+    },
+    {
+        "input": "tops",
+        "output": {
+            "Professional Wear": 90.0,
+            "Soft Cotton": 75.0,
+            "Top Sweater": 328.5
+        }
+    },
+    {
+        "input": "womens-dresses",
+        "output": {
+            "RED MICKY MOUSE..": 55.0,
+            "Digital Printed": 80.0,
+            "Ghazi Fabric": 339.5,
+            "IELGY": 50.0
+        }
+    },
+    {
+        "input": "womens-shoes",
+        "output": {
+            "IELGY fashion": 40.0,
+            "Synthetic Leather": 120.0,
+            "Sandals Flip Flops": 40.0,
+            "Maasai Sandals": 23.0,
+            "Arrivals Genuine": 36.0
+        }
+    },
+    {
+        "input": "mens-shirts",
+        "output": {
+            "Vintage Apparel": 29.0,
+            "FREE FIRE": 10.0,
+            "The Warehouse": 56.0
+        }
+    },
+    {
+        "input": "mens-shoes",
+        "output": {
+            "Sneakers": 39.333333333333336,
+            "Rubber": 47.0,
+            "The Warehouse": 57.0
+        }
+    },
+    {
+        "input": "mens-watches",
+        "output": {
+            "Naviforce": 120.0,
+            "SKMEI 9117": 48.0,
+            "Strap Skeleton": 46.0,
+            "Stainless": 47.0
+        }
+    },
+    {
+        "input": "womens-watches",
+        "output": {
+            "Eastern Watches": 47.5,
+            "Luxury Digital": 57.0,
+            "Watch Pearls": 47.0,
+            "Bracelet": 35.0
+        }
+    },
+    {
+        "input": "womens-bags",
+        "output": {
+            "LouisWill": 34.5,
+            "Bracelet": 44.0,
+            "Copenhagen Luxe": 57.0,
+            "Steal Frame": 68.0
+        }
+    },
+    {
+        "input": "womens-jewellery",
+        "output": {
+            "Darojay": 70.0,
+            "Copenhagen Luxe": 100.0,
+            "Fashion Jewellery": 30.0,
+            "Cuff Butterfly": 45.0
+        }
+    },
+    {
+        "input": "sunglasses",
+        "output": {
+            "Designer Sun Glasses": 34.5,
+            "mastar watch": 29.0,
+            "LouisWill": 50.0
+        }
+    },
+    {
+        "input": "automotive",
+        "output": {
+            "Car Aux": 25.0,
+            "W1209 DC12V": 40.0,
+            "TC Reusable": 34.5,
+            "Neon LED Light": 35.0
+        }
+    },
+    {
+        "input": "motorcycle",
+        "output": {
+            "METRO 70cc Motorcycle - MR70": 569.0,
+            "BRAVE BULL": 920.0,
+            "shock absorber": 1050.0,
+            "JIEPOLLY": 900.0,
+            "Xiangle": 930.0
+        }
+    },
+    {
+        "input": "lighting",
+        "output": {
+            "lightingbrilliance": 30.0,
+            "Ifei Home": 40.5,
+            "DADAWU": 34.0,
+            "YIOSI": 47.0
+        }
+    }
+]
